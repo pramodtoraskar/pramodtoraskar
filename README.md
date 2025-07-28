@@ -1,77 +1,110 @@
-# Pramod Toraskar - Resume
+# Hi, I'm Pramod Toraskar
 
-👋 Hi there! I'm **Pramod Toraskar**, a highly skilled **Principal Data Engineer** at Red Hat, with over 14 years of experience in IT. I specialize in Data Engineering, AI, and Machine Learning, driving digital transformations through cutting-edge cloud technologies and data pipelines. My technical expertise and leadership have consistently delivered innovative and scalable solutions across multiple industries.
+**Principal Data Engineer @ Red Hat | AI/ML Enthusiast | Open Source Contributor | Platform Thinker**
 
-## 💼 Professional Summary
+Welcome to my GitHub! With 14+ years in IT and nearly a decade at Red Hat, I lead large-scale data engineering, AI/ML integration, and cloud platform projects. I'm passionate about building intelligent, scalable systems—especially where data, AI, and business meet.
 
-I have built my career working across various data-centric roles, with a focus on:
+---
 
-- **Data Engineering**: Designing robust, scalable ETL pipelines, implementing data architectures, and automating workflows to streamline business processes.
-- **Cloud & Big Data Solutions**: Extensive experience working with AWS (S3, EC2, RDS), Snowflake, Starburst, and various data warehousing and cloud platforms.
-- **AI & Machine Learning**: Proven expertise in integrating ML models into production environments and creating AI-driven solutions for data insights and process optimization.
-- **Cross-Functional Collaboration**: Working closely with cross-functional teams, including Marketing, Sales, and IT, to drive data strategy and deliver business value.
+## Current Focus
 
-## 🛠 Key Skills
+- Building AI-powered data product pipelines using **Snowflake**, **dbt**, and **OpenShift AI**
+- Leading projects across **data engineering**, **agentic memory systems**, and **CI/CD automation**
+- Contributing to enterprise transformations through **platform modernization** and **open-source AI tools**
 
-- **Programming**: Python, SQL, JavaScript, Shell scripting
-- **Cloud Platforms**: AWS (S3, EC2, RDS), GitLab, GitLab Innersource
-- **Data Tools**: Snowflake, Fivetran, dbt, Apache Airflow (Astrocloud), Starburst
-- **Marketing & Sales Tools**: Marketo, Salesforce, HG Insights, Datorama, Bombora, Eloqua, Outreach
-- **Development & Collaboration**: CI/CD, DevOps, Jira, Confluence, Slack
-- **AI & Machine Learning**: Working with large language models (LLMs), developing machine learning models, and integrating them into data products.
+---
 
-## 🌟 Key Projects
+## Key Skills
 
-### 1. **Marketo to Snowflake Data Flow**
-- **Tech Stack**: Fivetran, dbt, Snowflake
-- **Description**: Built a data pipeline to sync marketing data from Marketo into Snowflake using Fivetran and transformed it with dbt for optimized analytics and reporting.
+| Area | Tools |
+|------|-------|
+| **Programming** | Python, SQL, Shell, JavaScript |
+| **Data Platforms** | Snowflake, Starburst, dbt, Fivetran |
+| **Orchestration** | Apache Airflow (Astrocloud), GitLab CI/CD |
+| **AI & ML** | LLMs (Gemini, OpenAI, HuggingFace), vLLM, Triton, Inference |
+| **Cloud & DevOps** | AWS, OpenShift, Git, Docker |
+| **Sales/Marketing Data** | Marketo, Salesforce, HG Insights, Adobe AAM, Bombora, Eloqua |
 
-### 2. **Hela Project - GitLab CEE Migration**
-- **Tech Stack**: GitLab, Git, CI/CD
-- **Description**: Led the migration of Git repositories and CI/CD pipelines from legacy platforms to GitLab CEE, ensuring a smooth transition and resolving blockers related to CI/CD configurations.
+---
 
-### 3. **Hela Domino AAM ETL Migration to AWS**
-- **Tech Stack**: AWS, Adobe Audience Manager, Starburst
-- **Description**: Developed an ETL pipeline to pull data from Starburst tables, format it, and push to Adobe Audience Manager S3 buckets, eliminating dependency on legacy systems.
+## Projects & Contributions
 
-### 4. **Snowflake Data Products Development**
-- **Tech Stack**: Snowflake, dbt, Marketo, Salesforce, HG Insights
-- **Description**: Designed and developed source-line and aggregated data products, integrating multiple third-party data sources into Snowflake for advanced analytics.
+### Marketo to Snowflake Pipeline  
+**Fivetran + dbt + Snowflake**  
+> Marketing automation sync from Marketo → Snowflake using auto-ingest and modular dbt models.
 
-### 5. **Fluvii**
-- **Repository**: [Fluvii GitHub Repo](https://github.com/rh-marketingops/fluvii)
-- **Description**: Contributed to the development and maintenance of Fluvii, a powerful data management solution used for streamlining data operations.
+### Streamlit Data Product Factory  
+**Streamlit + Gemini + dbt + GitLab**  
+> Smart UI to generate staging models, join configs, tests, and full dbt data products using Gemini 2.5 Flash + LangChain.
 
-### 6. **qlikreader**
-- **Repository**: [qlikreader GitHub Repo](https://github.com/rh-marketingops/qlikreader)
-- **Description**: Built a tool to read and process data from Qlik dashboards, simplifying data extraction for business intelligence purposes.
+### Hela GitLab CEE Migration  
+> Migrated Git repos and CI/CD workflows. Solved blockers for broken CI/CD in marketing pipelines.
 
-### 7. **python-outreach**
-- **Repository**: [python-outreach GitHub Repo](https://github.com/pramodtoraskar/python-outreach)
-- **Description**: Developed a Python-based solution to interact with the Outreach API for automating CRM tasks and managing sales data efficiently.
+### Hela Domino AAM Migration to AWS  
+> Rebuilt batch ETL pulling Starburst → formatting → pushing to Adobe AAM S3.
 
-### 8. **dwm**
-- **Repository**: [dwm GitHub Repo](https://github.com/pramodtoraskar/dwm)
-- **Description**: Customized and extended the dynamic window manager (dwm) for personal productivity and optimized workflow in a Unix environment.
+### HG Insights SADP  
+> Built scalable job to ingest firmographic data into Snowflake from HG v2 feed, replacing legacy systems.
 
-## 🏆 Achievements
+### Salesforce & Eloqua Integration  
+> Migrated legacy data pipelines to Dataverse with modular dbt modeling and Snowpipe ingestion.
 
-- **Rotating Facilitator - Sprint 7, Q4 2024**: Demonstrated leadership in sprint facilitation to drive effective communication and goal achievement across teams.
-- **CI/CD Optimizations**: Improved CI/CD pipelines for GitLab and various marketing-related projects, ensuring efficient deployment processes and reduced system downtimes.
-- **Data Governance Initiatives**: Worked on significant governance projects related to personal identifiable information (PII) migration to non-production environments, ensuring compliance and data integrity.
+---
 
-## 🚀 Career Goals
+## Open Source Projects
 
-I am committed to continuous innovation and expanding my expertise in:
+| Repo | Description |
+|------|-------------|
+| [`fluvii`](https://github.com/rh-marketingops/fluvii) | Framework to streamline marketing data flows across internal teams |
+| [`qlikreader`](https://github.com/rh-marketingops/qlikreader) | CLI/SDK to extract structured data from Qlik dashboards |
+| [`python-outreach`](https://github.com/pramodtoraskar/python-outreach) | Python client to interact with Outreach CRM API |
+| [`dwm`](https://github.com/pramodtoraskar/dwm) | Personal fork with productivity enhancements to dynamic window manager |
 
-- **Advanced AI and Quantum Computing**: Exploring the intersection of AI with quantum technologies to drive the future of data science.
-- **Data Science and Machine Learning**: Deepening my knowledge in machine learning applications for predictive analytics and automation.
-- **Leadership & Patents**: Aiming to lead groundbreaking projects in data-driven digital transformation and obtain patents for innovative solutions in AI and data engineering.
+---
 
-## 📫 Contact Information
+## AI & Memory Systems: Memorix AI
 
-- **Email**: pramodtoraskar@ptoraska-mac
-- **LinkedIn**: [linkedin.com/in/pramodtoraskar](https://www.linkedin.com/in/pramodtoraskar)
-- **GitHub**: [github.com/pramodtoraskar](https://github.com/pramodtoraskar)
+I'm currently building **Memorix AI** – a next-gen **Agentic Memory SDK** and platform to give AI agents recall, context, and privacy-aware memory.
 
-Thank you for visiting my GitHub! Feel free to reach out for potential collaborations, mentorship, or just to talk about data and AI!
+### 🔧 Key Repos:
+
+| Repo | Purpose |
+|------|---------|
+| [`memorix-sdk`](https://github.com/memorix-ai/memorix-sdk) | Core SDK with modular API, YAML config, tiered memory |
+| [`memorix-server`](https://github.com/memorix-ai/memorix-server) | REST API server exposing MemoryAPI |
+| [`memorix-embedders`](https://github.com/memorix-ai/memorix-embedders) | Embedding plugins for OpenAI, Gemini, etc. |
+| [`memorix-vectorstores`](https://github.com/memorix-ai/memorix-vectorstores) | Vector store plugins for FAISS, Qdrant, Chroma |
+| [`memorix-meta`](https://github.com/memorix-ai/memorix-meta) | Metadata integrations (DuckDB, Postgres, etc.) |
+| [`memorix-roadmap`](https://github.com/memorix-ai/memorix-roadmap) | Public issues, feature planning, RFCs |
+
+---
+
+## Innovation, Recognition & Leadership
+
+- **Sprint Facilitator** – Led cross-team agile planning & delivery
+- **CI/CD Optimization** – Automated broken CI/CD across GitLab Marketing repos
+- **Data Governance Lead** – Approved for PII hosting in non-prod Snowflake, implemented privacy-safe workflows
+- **Patent Planning** – Currently drafting patents around agentic memory systems and AI platform design
+- **Red Hat Mentoring Program** – Mentee and future mentor in the company-wide career growth initiative
+
+---
+
+## Career Goals
+
+- Launch open-source tools that bridge **data platforms and agentic AI workflows**
+- Advance in **LLM inference, memory systems, and AI orchestration**
+- Build enterprise-grade **AI-first data platforms**
+- Work in memory systems, inference optimization, and agent design
+
+---
+
+## Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pramodtoraskar)
+- [GitHub](https://github.com/pramodtoraskar)
+- Email: `pramodtoraskar5@gmail.com`
+
+---
+
+**Thanks for stopping by!**  
+Let’s build something impactful together—especially at the intersection of **data, AI, and open source**.
