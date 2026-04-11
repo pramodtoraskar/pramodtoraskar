@@ -1,6 +1,6 @@
 # Hi, I'm Pramod 👋
 
-📍 Pune, India  |  🧠 Data × AI builder  |  ⚙️ Platform thinker  |  🚀 Principal Data Engineer @ Red Hat
+📍 Pune, India ↔ Raleigh, NC  |  🧠 Data × AI builder  |  ⚙️ Platform thinker  |  🚀 Principal Data Engineer @ Red Hat
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-teal?style=flat-square&color=1D9E75) ![dbt](https://img.shields.io/badge/dbt-amber?style=flat-square&color=EF9F27) ![LLMs](https://img.shields.io/badge/LLMs-purple?style=flat-square&color=7F77DD) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-blue?style=flat-square&color=378ADD) ![OpenShift](https://img.shields.io/badge/OpenShift-teal?style=flat-square&color=0F6E56) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-coral?style=flat-square&color=D85A30) ![AWS](https://img.shields.io/badge/AWS-gray?style=flat-square&color=888780)
 
@@ -16,7 +16,24 @@
 - 🗄️ **[memorix-vectorstores](https://github.com/pramodtoraskar/memorix-vectorstores)** — Vector store plugins: FAISS, Qdrant, Chroma
 - 📊 **[memorix-meta](https://github.com/pramodtoraskar/memorix-meta)** — Metadata integrations: DuckDB, Postgres
 - 🏭 **Streamlit Data Product Factory** — Generate dbt models + tests using Gemini 2.5 Flash + LangChain
-- 🌊 **[fluvii](https://github.com/pramodtoraskar/fluvii)** — Framework to streamline marketing data flows across internal teams
+- 🌊 **[fluvii](https://github.com/rh-marketingops/fluvii)** — Kafka streams client library for marketing data flows
+- 🔁 **[relay](https://github.com/redhat-community-ai-tools/relay)** — AI-powered dev workflow: seamless task handoffs + context across Jira, Git, and any IDE
+- 🕵️ **[slack-intel](https://github.com/redhat-community-ai-tools/slack-intel)** — Fully local Slack history analysis — Ollama RAG, zero data leaves your machine
+- 🔗 **[rlinks](https://github.com/redhat-events/rlinks)** — Crowd-sourced bookmark manager with short URL redirects, voting, and AI-suggested tags
+- 🤖 **[askET](https://github.com/pramodtoraskar/askET)** — RAG chatbot over Red Hat Emerging Technologies content — Gemini + LangChain + FAISS, 100% query success rate
+
+---
+
+## 🏢 GitHub Orgs I contribute to
+
+| Org | What it is |
+|-----|------------|
+| [redhat-community-ai-tools](https://github.com/redhat-community-ai-tools) | MCP servers, multi-agent orchestration & AI tooling for Red Hat's open source ecosystem |
+| [rh-marketingops](https://github.com/rh-marketingops) | Marketing data pipelines, Kafka streaming, and data quality tooling at Red Hat scale |
+| [purefield-demo-team](https://github.com/purefield-demo-team) | RAG apps, AI hackathon starters, and OpenShift demo infra |
+| [redhat-events](https://github.com/redhat-events) | Event-driven tooling, DevSpaces configs, and internal automation |
+| [PyConPune](https://github.com/PyConPune) | PyCon Pune community — Python conference org for Pune, India |
+| [OpsDataCamp](https://github.com/OpsDataCamp) | Data engineering & science learning resources and visualization best practices |
 
 ---
 
@@ -24,7 +41,7 @@
 
 - 📈 **[qlikreader](https://github.com/pramodtoraskar/qlikreader)** — CLI/SDK to extract structured data from Qlik dashboards
 - 🔗 **[python-outreach](https://github.com/pramodtoraskar/python-outreach)** — Python client for Outreach CRM API
-- 🪟 **[dwm](https://github.com/pramodtoraskar/dwm)** — Personal fork with productivity enhancements to dynamic window manager
+- 🪟 **[dwm](https://github.com/rh-marketingops/dwm)** — Red Hat's business logic for maintaining marketing data quality
 
 ---
 
