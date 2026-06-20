@@ -1,10 +1,10 @@
 # Hi, I'm Pramod 👋
 
-📍 Pune, India ↔ Raleigh, NC  |  🧠 Data × AI builder  |  ⚙️ Platform thinker  |  🚀 Principal Data Engineer @ Red Hat
+📍 Pune, India ↔ Raleigh, NC  |  🧠 Data × AI builder  |  ⚙️ Platform thinker  |  🚀 Principal Engineer @ Red Hat
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-teal?style=flat-square&color=1D9E75) ![dbt](https://img.shields.io/badge/dbt-amber?style=flat-square&color=EF9F27) ![LLMs](https://img.shields.io/badge/LLMs-purple?style=flat-square&color=7F77DD) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-blue?style=flat-square&color=378ADD) ![OpenShift](https://img.shields.io/badge/OpenShift-teal?style=flat-square&color=0F6E56) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-coral?style=flat-square&color=D85A30) ![AWS](https://img.shields.io/badge/AWS-gray?style=flat-square&color=888780)
 
-14+ years in data and infra. Spent nearly a decade at Red Hat leading large-scale data engineering, AI/ML platforms, and marketing data systems. Now building open-source tools at the intersection of data pipelines and agentic AI — where the interesting problems live.
+16+ years in data and infra. Spent nearly a decade at Red Hat leading large-scale data engineering, AI/ML platforms, and marketing data systems. Now building open-source tools at the intersection of data pipelines and agentic AI — where the interesting problems live.
 
 ---
 
